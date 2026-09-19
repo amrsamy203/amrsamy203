@@ -1,7 +1,7 @@
 # Amr Samy
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Amr Samy — Measurable Systems" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/banner.svg" alt="Amr Samy — Measurable Systems" width="100%"/>
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt=""/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/divider.svg" width="100%" alt="divider"/>
 </p>
 
 ## Proof, not buzzwords
 
 <p align="center">
-  <img src="./assets/metrics.svg" width="100%" alt="Career metrics"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/metrics.svg" width="100%" alt="Career metrics"/>
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ I work across **Java / Spring Boot**, queues (**RabbitMQ**), multi-cloud data se
 </table>
 
 <p align="center">
-  <img src="./assets/now.svg" width="100%" alt="Now building"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/now.svg" width="100%" alt="Now building"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ Public demos with **Throughput Console**, architecture notes, and failure inject
 <td width="33%" align="center" valign="top">
 
 ### [CaseFlow](https://github.com/amrsamy203/measurable-systems/tree/main/projects/caseflow)
-<img src="https://img.shields.io/badge/from_resume-Data_Gear_queues-2DD4BF?style=flat-square&labelColor=0B1220" alt=""/>
+<img src="https://img.shields.io/badge/from_resume-Data_Gear_queues-2DD4BF?style=flat-square&labelColor=0B1220" alt="Data Gear"/>
 
 Fair case routing under load  
 ingest → rules → assign → SLA
@@ -83,7 +83,7 @@ ingest → rules → assign → SLA
 <td width="33%" align="center" valign="top">
 
 ### [DispatchGrid](https://github.com/amrsamy203/measurable-systems/tree/main/projects/dispatchgrid)
-<img src="https://img.shields.io/badge/from_resume-20M+_SMS-F59E0B?style=flat-square&labelColor=0B1220" alt=""/>
+<img src="https://img.shields.io/badge/from_resume-20M+_SMS-F59E0B?style=flat-square&labelColor=0B1220" alt="20M SMS"/>
 
 Multi-provider dispatch  
 rate limits · outbox · DLQ
@@ -94,7 +94,7 @@ rate limits · outbox · DLQ
 <td width="33%" align="center" valign="top">
 
 ### [RelateAI](https://github.com/amrsamy203/measurable-systems/tree/main/projects/relateai)
-<img src="https://img.shields.io/badge/from_resume-bub_AI_graph-A78BFA?style=flat-square&labelColor=0B1220" alt=""/>
+<img src="https://img.shields.io/badge/from_resume-bub_AI_graph-A78BFA?style=flat-square&labelColor=0B1220" alt="bub AI"/>
 
 Graph insights + AI challenges  
 uploads · mock/OpenAI
@@ -154,21 +154,20 @@ cd measurable-systems && docker compose up --build -d
 ## Activity & highlights
 
 <p align="center">
-  <img src="./assets/github-card.svg" width="100%" alt="GitHub highlights"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/github-card.svg" width="100%" alt="GitHub highlights"/>
 </p>
 
 <p align="center">
-  <img src="./assets/langs.svg" width="100%" alt="Languages and tools"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/langs.svg" width="100%" alt="Languages and tools"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/amrsamy203/measurable-systems">
-    <img src="./assets/pin.svg" alt="measurable-systems pinned"/>
+    <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/pin.svg" alt="measurable-systems pinned"/>
   </a>
 </p>
 
 <p align="center">
-  <!-- streak-stats.demolab.com is more reliable than Vercel demo widgets -->
   <img src="https://streak-stats.demolab.com?user=amrsamy203&theme=tokyonight&hide_border=true&background=0B1220&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF" alt="GitHub streak"/>
 </p>
 
@@ -196,7 +195,7 @@ Open to **Upwork · Freelancer · Khamsat** for Spring Boot APIs, workers, integ
 </details>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt=""/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/divider.svg" width="100%" alt="divider"/>
 </p>
 
 <p align="center">

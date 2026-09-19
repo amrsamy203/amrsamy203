@@ -8,8 +8,8 @@ Based in **Cairo, Egypt**. I specialize in **Java / Spring Boot** backends — q
 
 <p align="left">
   <a href="mailto:samyamr270@gmail.com"><img src="https://img.shields.io/badge/Email-samyamr270%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/amr-samy-2851ab13b"><img src="https://img.shields.io/badge/LinkedIn-Amr_Samy-0B1220?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
   <a href="https://github.com/amrsamy203/measurable-systems"><img src="https://img.shields.io/badge/Portfolio-Measurable_Systems-0B1220?style=for-the-badge&logo=github&logoColor=F59E0B" alt="Portfolio" /></a>
-  <a href="https://github.com/amrsamy203"><img src="https://img.shields.io/badge/GitHub-amrsamy203-0B1220?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Cairo-Egypt-0B1220?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF" alt="Location" />
 </p>
 
@@ -143,6 +143,7 @@ Hybrid online/offline classifiers → LaTeX; segmentation accuracy **90.87%**; h
 Open to freelance work on **Upwork · Freelancer · Khamsat**: Spring Boot APIs, queue workers, integrations, and batch/performance optimization.
 
 **Email:** [samyamr270@gmail.com](mailto:samyamr270@gmail.com) · **Phone:** +20 101 653 0911  
+**LinkedIn:** [linkedin.com/in/amr-samy-2851ab13b](https://www.linkedin.com/in/amr-samy-2851ab13b)  
 **Portfolio:** [measurable-systems](https://github.com/amrsamy203/measurable-systems)
 
 <details>

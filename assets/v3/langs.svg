@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200">
+  <rect width="860" height="200" rx="16" fill="#0B1220" stroke="#1F2937"/>
+  <text x="28" y="40" fill="#2DD4BF" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="2">TOP LANGUAGES AND TOOLS</text>
+  <text x="28" y="78" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="14">Java</text>
+  <rect x="120" y="64" width="520" height="16" rx="8" fill="#1F2937"/>
+  <rect x="120" y="64" width="460" height="16" rx="8" fill="#ED8B00"/>
+  <text x="28" y="112" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="14">C# / .NET</text>
+  <rect x="120" y="98" width="520" height="16" rx="8" fill="#1F2937"/>
+  <rect x="120" y="98" width="280" height="16" rx="8" fill="#512BD4"/>
+  <text x="28" y="146" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="14">SQL</text>
+  <rect x="120" y="132" width="520" height="16" rx="8" fill="#1F2937"/>
+  <rect x="120" y="132" width="340" height="16" rx="8" fill="#336791"/>
+  <text x="28" y="180" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="14">TS/JS</text>
+  <rect x="120" y="166" width="520" height="16" rx="8" fill="#1F2937"/>
+  <rect x="120" y="166" width="180" height="16" rx="8" fill="#2DD4BF"/>
+  <text x="680" y="100" fill="#9CA3AF" font-family="Segoe UI, Arial, sans-serif" font-size="12">Also:</text>
+  <text x="680" y="124" fill="#E5E7EB" font-family="Consolas, monospace" font-size="12">C++ | Rust | Go</text>
+  <text x="680" y="146" fill="#E5E7EB" font-family="Consolas, monospace" font-size="12">RabbitMQ | Docker</text>
+  <text x="680" y="168" fill="#E5E7EB" font-family="Consolas, monospace" font-size="12">AWS | Azure | GCP</text>
+</svg>

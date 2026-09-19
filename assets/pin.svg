@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160">
+  <rect width="420" height="160" rx="16" fill="#0B1220" stroke="#F59E0B" stroke-opacity="0.5"/>
+  <text x="24" y="36" fill="#F59E0B" font-family="Segoe UI, Arial" font-size="12" letter-spacing="2">PINNED REPO</text>
+  <text x="24" y="72" fill="#F9FAFB" font-family="Segoe UI, Arial" font-size="22" font-weight="700">measurable-systems</text>
+  <text x="24" y="102" fill="#9CA3AF" font-family="Segoe UI, Arial" font-size="13">CaseFlow · DispatchGrid · RelateAI · portfolio</text>
+  <text x="24" y="132" fill="#2DD4BF" font-family="Consolas, monospace" font-size="12">Java 21 · Spring · Docker Compose</text>
+</svg>

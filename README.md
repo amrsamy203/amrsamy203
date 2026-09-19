@@ -151,29 +151,25 @@ cd measurable-systems && docker compose up --build -d
 
 ---
 
-## Activity & recognition
+## Activity & highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrsamy203&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+  <img src="./assets/github-card.svg" width="100%" alt="GitHub highlights"/>
 </p>
 
 <p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=amrsamy203&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2DD4BF&icon_color=F59E0B&text_color=E5E7EB&ring_color=2DD4BF" alt="stats"/>
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrsamy203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2DD4BF&text_color=E5E7EB" alt="langs"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amrsamy203&theme=tokyonight&hide_border=true&background=0B1220&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF" alt="streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amrsamy203&bg_color=0B1220&color=2DD4BF&line=F59E0B&point=2DD4BF&area=true&hide_border=true&custom_title=Contribution%20activity" alt="graph"/>
+  <img src="./assets/langs.svg" width="100%" alt="Languages and tools"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/amrsamy203/measurable-systems">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrsamy203&repo=measurable-systems&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2DD4BF&icon_color=F59E0B&text_color=E5E7EB" alt="pin"/>
+    <img src="./assets/pin.svg" alt="measurable-systems pinned"/>
   </a>
+</p>
+
+<p align="center">
+  <!-- streak-stats.demolab.com is more reliable than Vercel demo widgets -->
+  <img src="https://streak-stats.demolab.com?user=amrsamy203&theme=tokyonight&hide_border=true&background=0B1220&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF" alt="GitHub streak"/>
 </p>
 
 ---

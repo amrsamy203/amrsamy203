@@ -1,239 +1,212 @@
-# Hi, I'm Amr Samy 👋
+# Amr Samy
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Amr Samy — Measurable Systems" width="100%" />
+  <img src="./assets/banner.svg" alt="Amr Samy — Measurable Systems" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=26&pause=1200&color=2DD4BF&center=true&vCenter=true&width=780&height=44&lines=Backend+Engineer+%7C+Java+%2F+Spring+Boot;Queues+%C2%B7+Routing+%C2%B7+High-volume+Integrations;Building+Measurable+Systems" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=28&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=820&height=80&lines=Backend+Engineer+%7C+High-throughput+systems;Java+%2F+Spring+%C2%B7+Queues+%C2%B7+Integrations;I+build+systems+you+can+measure" alt="typing"/>
 </p>
 
 <p align="center">
   <a href="mailto:samyamr270@gmail.com"><img src="https://img.shields.io/badge/Email-samyamr270%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/amr-samy-2851ab13b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/amr-samy-2851ab13b"><img src="https://img.shields.io/badge/LinkedIn-amr--samy--2851ab13b-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/amrsamy203/measurable-systems"><img src="https://img.shields.io/badge/Portfolio-Measurable_Systems-111827?style=for-the-badge&logo=github&logoColor=F59E0B" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/Cairo-Egypt-0B1220?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF" alt="Location"/>
+  <img src="https://img.shields.io/badge/Based_in-Cairo,_Egypt-0B1220?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF" alt="Location"/>
 </p>
 
 <p align="center">
-  <b>I turn slow, fragile business processes into fast, reliable pipelines</b><br/>
-  <sub>Queues · rules · integrations · APIs that hold up under real volume</sub>
+  <img src="./assets/divider.svg" width="100%" alt=""/>
 </p>
 
----
-
-## Impact at a glance
+## Proof, not buzzwords
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pipeline_speedup-45min_%E2%86%92_2min-0B1220?style=for-the-badge&labelColor=111827&color=2DD4BF" alt="45 to 2"/>
-  <img src="https://img.shields.io/badge/Campaign_scale-20M%2B_SMS-0B1220?style=for-the-badge&labelColor=111827&color=F59E0B" alt="20M SMS"/>
-  <img src="https://img.shields.io/badge/Experience-~5_years_backend-0B1220?style=for-the-badge&labelColor=111827&color=6366F1" alt="5 years"/>
-  <img src="https://img.shields.io/badge/ECPC_finals-%C3%973-0B1220?style=for-the-badge&labelColor=111827&color=14B8A6" alt="ECPC"/>
+  <img src="./assets/metrics.svg" width="100%" alt="Career metrics"/>
+</p>
+
+<p align="center">
+  <i>From real production work — AML pipeline optimization & telecom-scale campaigns (anonymized outcomes).</i>
 </p>
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### Who I am
-Software Engineer (Backend) based in **Cairo**.  
-B.Sc. CS — **Cairo University**.  
+### About
+I'm a **backend software engineer (~5 years)** who designs systems where **volume, routing, and failure** matter.
 
-I build systems where **latency, volume, and failure modes** matter — fintech AML pipelines, telecom campaign engines, AI product features, and multi-cloud data services.
+I work across **Java / Spring Boot**, queues (**RabbitMQ**), multi-cloud data services (**AWS · Azure · GCP**), and integrations — from fintech AML to telecom VAS and AI product features.
+
+**Education:** B.Sc. Computer Science — Cairo University  
+**Also:** ECPC finals ×3 · Co-coach ×2 · ICPC instructor
 
 </td>
-<td width="50%">
+<td width="45%" valign="top">
 
-### What clients hire me for
-- Spring Boot **APIs & workers**
-- **RabbitMQ** queues, routing, DLQ
-- High-volume **integrations**
-- Batch / concurrency **performance**
-- AI features as **backend endpoints**
+### Hire me for
+| Need | What you get |
+|:--|:--|
+| APIs | Spring Boot + JWT + OpenAPI |
+| Queues | Workers, routing, DLQ |
+| Scale | Batch / concurrency tuning |
+| Integrate | SMS/email/SOAP/REST adapters |
+| AI feature | Endpoints + persistence + limits |
 
 </td>
 </tr>
 </table>
 
----
-
-## Featured work — [Measurable Systems](https://github.com/amrsamy203/measurable-systems)
-
-> Every demo ships with a **Throughput Console**, architecture notes, and failure injection — so you can *see* how the system behaves.
-
 <p align="center">
-  <a href="https://github.com/amrsamy203/measurable-systems"><img src="https://img.shields.io/badge/⭐_Clone_the_monorepo-amrsamy203%2Fmeasurable--systems-0B1220?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Monorepo"/></a>
+  <img src="./assets/now.svg" width="100%" alt="Now building"/>
 </p>
 
+---
+
+## Portfolio — [Measurable Systems](https://github.com/amrsamy203/measurable-systems)
+
+Public demos with **Throughput Console**, architecture notes, and failure injection.
+
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/amrsamy203/measurable-systems/tree/main/projects/caseflow">CaseFlow</a></h3>
-      <p align="center"><img src="https://img.shields.io/badge/Maps_to-Data_Gear_AML_queues-2DD4BF?style=flat-square&labelColor=0B1220" alt="maps"/></p>
-      <p>Fair <b>case routing</b> under load: ingest → rules → queues → round-robin assign · SLA · audit.</p>
-      <p><code>Spring</code> · <code>Postgres</code> · <code>RabbitMQ</code> · <code>JWT</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/amrsamy203/measurable-systems/tree/main/projects/dispatchgrid">DispatchGrid</a></h3>
-      <p align="center"><img src="https://img.shields.io/badge/Maps_to-Smart_Link_20M+_SMS-F59E0B?style=flat-square&labelColor=0B1220" alt="maps"/></p>
-      <p>Multi-provider <b>campaign dispatch</b> with rate limits, outbox, retries, and DLQ.</p>
-      <p><code>Spring</code> · <code>Outbox</code> · <code>API keys</code> · <code>Fake providers</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/amrsamy203/measurable-systems/tree/main/projects/relateai">RelateAI</a></h3>
-      <p align="center"><img src="https://img.shields.io/badge/Maps_to-bub_AI_OpenAI_%2B_graph-6366F1?style=flat-square&labelColor=0B1220" alt="maps"/></p>
-      <p>Social/topic <b>graph insights</b> + daily AI challenges + media uploads.</p>
-      <p><code>Spring</code> · <code>Graph APIs</code> · <code>OpenAI/mock</code></p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### [CaseFlow](https://github.com/amrsamy203/measurable-systems/tree/main/projects/caseflow)
+<img src="https://img.shields.io/badge/from_resume-Data_Gear_queues-2DD4BF?style=flat-square&labelColor=0B1220" alt=""/>
+
+Fair case routing under load  
+ingest → rules → assign → SLA
+
+`Spring` `Postgres` `RabbitMQ`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### [DispatchGrid](https://github.com/amrsamy203/measurable-systems/tree/main/projects/dispatchgrid)
+<img src="https://img.shields.io/badge/from_resume-20M+_SMS-F59E0B?style=flat-square&labelColor=0B1220" alt=""/>
+
+Multi-provider dispatch  
+rate limits · outbox · DLQ
+
+`Spring` `Outbox` `API keys`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### [RelateAI](https://github.com/amrsamy203/measurable-systems/tree/main/projects/relateai)
+<img src="https://img.shields.io/badge/from_resume-bub_AI_graph-A78BFA?style=flat-square&labelColor=0B1220" alt=""/>
+
+Graph insights + AI challenges  
+uploads · mock/OpenAI
+
+`Spring` `Graph` `OpenAI`
+
+</td>
+</tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/amrsamy203/measurable-systems">
+    <img src="https://img.shields.io/badge/Open_monorepo-docker_compose_up-2DD4BF?style=for-the-badge&logo=docker&logoColor=0B1220&labelColor=0B1220" alt="Docker"/>
+  </a>
+</p>
 
 ```bash
 git clone https://github.com/amrsamy203/measurable-systems.git
 cd measurable-systems && docker compose up --build -d
-# Portfolio :3000 · CaseFlow :8081 · DispatchGrid :8082 · RelateAI :8083
+# :3000 site · :8081 CaseFlow · :8082 DispatchGrid · :8083 RelateAI
 ```
 
 ---
 
-## Career timeline
+## Career path
 
 ```text
-2025 ──●── Cyshield ........ Multi-cloud microservices (Java/C/C++/Rust · AWS/Azure/GCP)
-2024 ──●── bub AI ........... OpenAI challenges · graph DB · Azure Blob
-2023 ──●── Data Gear ........ AML · AGP 45min→2min · RabbitMQ routing
-2020 ──●── Smart Link ....... Telecom VAS · 20M+ SMS campaigns · .NET
-2015 ──●── Cairo University . B.Sc. Computer Science
+ ● 2025  Cyshield ........ Java/C/C++/Rust microservices · AWS/Azure/GCP
+ ● 2024  bub AI .......... OpenAI challenges · graph DB · Azure Blob
+ ● 2023  Data Gear ....... AML · 45min→2min · RabbitMQ round-robin
+ ● 2020  Smart Link ...... Telecom VAS · 20M+ SMS · .NET integrations
+ ● 2015  Cairo Univ ...... B.Sc. Computer Science
 ```
 
 <details>
-<summary><b>Full experience details (from resume)</b></summary>
+<summary><strong>Full resume experience</strong></summary>
 
 <br/>
 
-### Software Engineer — Cyshield, Egypt · `Jul 2025 – Present`
-Backend microservices in Java, C, C++, Rust · AWS / Azure / GCP (IAM, DynamoDB, Kinesis, SNS) · DynamoDB, FoundationDB, GCP stores · WebRTC research · confidential computing (OpenEnclave, SGX).
-
-### Backend Engineering — Data Gear, Egypt · `Jan 2023 – Jun 2025`
-AML apps (Java/Spring) · AGP optimization **~45 min → ~2 min** · concurrency · alarm/case/suspect queues · round-robin routing · Oracle, RabbitMQ, Jenkins, Docker.
-
-### Backend Engineering — bub AI, Singapore · `Jan 2024 – Dec 2024`
-OpenAI daily challenges · graph analysis of connections/topics · Azure Blob uploads · Spring Boot, MongoDB.
-
-### Backend Engineering — Smart Link, Egypt · `Oct 2020 – Oct 2021`
-Telecom VAS (.NET) · **20M+ SMS**/campaign · shopping + payments · SOAP/REST, Worker Services.
+**Cyshield** — distributed backends, multi-cloud data/messaging, WebRTC & confidential computing research.  
+**Data Gear** — AML (Java/Spring), AGP optimization, concurrency, queue routing (Oracle, RabbitMQ, Docker, Jenkins).  
+**bub AI** — OpenAI daily challenges, graph analysis, Azure Blob (Spring, MongoDB).  
+**Smart Link** — telecom VAS, 20M+ SMS campaigns, payments (.NET, SOAP/REST, workers).
 
 </details>
 
 ---
 
-## Tech stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,cpp,rust,go,nodejs,postgres,mongodb,redis,rabbitmq,docker,aws,azure,gcp,git,linux&perline=9" alt="Skills"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005EB8?style=flat-square&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,cpp,rust,go,postgres,mongodb,redis,rabbitmq,docker,aws,azure,gcp,linux,git,githubactions&perline=9" alt="stack"/>
 </p>
 
 ---
 
-## Education & competitive programming
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Education
-**B.Sc. Computer Science**  
-Cairo University · 2015–2020  
-
-DS/Algorithms · OOP · OS · AI
-
-</td>
-<td width="50%" valign="top">
-
-### Contests & coaching
-ECPC finals **×3**  
-Local CU qualifier **3rd**  
-ECPC Co-coach **×2**  
-Instructor — ICPC Cairo Science
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Graduation project</b></summary>
-
-<br/>
-
-**Handwritten Mathematical Expression Recognition** → LaTeX  
-Segmentation **90.87%** · hybrid classifier **80.62%** (offline RF + online stroke model).
-
-</details>
-
----
-
-## GitHub analytics
+## Activity & recognition
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amrsamy203&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2DD4BF&icon_color=F59E0B&text_color=E5E7EB&ring_color=2DD4BF" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrsamy203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2DD4BF&text_color=E5E7EB" alt="Langs"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amrsamy203&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amrsamy203&theme=tokyonight&hide_border=true&background=0B1220&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=9CA3AF&dates=6B7280" alt="Streak"/>
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=amrsamy203&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2DD4BF&icon_color=F59E0B&text_color=E5E7EB&ring_color=2DD4BF" alt="stats"/>
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrsamy203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2DD4BF&text_color=E5E7EB" alt="langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrsamy203&bg_color=0B1220&color=2DD4BF&line=F59E0B&point=2DD4BF&area=true&hide_border=true&custom_title=Contribution%20graph" alt="Activity graph" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=amrsamy203&theme=tokyonight&hide_border=true&background=0B1220&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF" alt="streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amrsamy203&bg_color=0B1220&color=2DD4BF&line=F59E0B&point=2DD4BF&area=true&hide_border=true&custom_title=Contribution%20activity" alt="graph"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/amrsamy203/measurable-systems">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrsamy203&repo=measurable-systems&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2DD4BF&icon_color=F59E0B&text_color=E5E7EB" alt="measurable-systems"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrsamy203&repo=measurable-systems&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2DD4BF&icon_color=F59E0B&text_color=E5E7EB" alt="pin"/>
   </a>
 </p>
 
 ---
 
-## Let's build something reliable
+## Let's work
 
-Open to **Upwork · Freelancer · Khamsat** — Spring Boot APIs, queue workers, integrations, batch optimization.
+Open to **Upwork · Freelancer · Khamsat** for Spring Boot APIs, workers, integrations, and performance work.
 
 <p align="center">
-  <a href="mailto:samyamr270@gmail.com"><img src="https://img.shields.io/badge/Hire_me-Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/amr-samy-2851ab13b"><img src="https://img.shields.io/badge/LinkedIn-Message-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/amrsamy203/measurable-systems"><img src="https://img.shields.io/badge/See_demos-Portfolio-F59E0B?style=for-the-badge&logo=docker&logoColor=0B1220&labelColor=0B1220" alt="Demos"/></a>
+  <a href="mailto:samyamr270@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="mail"/></a>
+  <a href="https://www.linkedin.com/in/amr-samy-2851ab13b"><img src="https://img.shields.io/badge/Contact-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="li"/></a>
+  <a href="tel:+201016530911"><img src="https://img.shields.io/badge/Phone-%2B20_101_653_0911-111827?style=for-the-badge&logo=whatsapp&logoColor=2DD4BF&labelColor=0B1220" alt="phone"/></a>
 </p>
 
-**Phone:** +20 101 653 0911
-
 <details>
-<summary><b>How I start an engagement</b></summary>
+<summary><strong>Engagement style</strong></summary>
 
 <br/>
 
-1. Echo the business problem in plain language  
-2. Propose a fixed first milestone  
-3. Deliver runnable software + short decision notes — not only a code dump  
+1. Echo the problem in client language  
+2. Fixed first milestone  
+3. Runnable delivery + short decision notes  
 
 </details>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrsamy203&style=for-the-badge&color=2dd4bf&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="./assets/divider.svg" width="100%" alt=""/>
 </p>
 
 <p align="center">
-  <sub>Designed around the <b>Measurable Systems</b> brand — industrial precision, real metrics, production-minded backends.</sub>
+  <img src="https://komarev.com/ghpvc/?username=amrsamy203&style=for-the-badge&color=2dd4bf&label=PROFILE+VIEWS" alt="views"/>
+</p>
+
+<p align="center">
+  <sub>Brand: <b>Measurable Systems</b> — industrial precision · real metrics · production-minded backends</sub>
 </p>

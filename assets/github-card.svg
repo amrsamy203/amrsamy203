@@ -1,18 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="180" viewBox="0 0 860 180">
   <rect width="860" height="180" rx="16" fill="#0B1220" stroke="#1F2937"/>
-  <text x="28" y="42" fill="#2DD4BF" font-family="Segoe UI, Arial" font-size="14" letter-spacing="2">GITHUB HIGHLIGHTS</text>
-  <text x="28" y="78" fill="#F9FAFB" font-family="Segoe UI, Arial" font-size="22" font-weight="700">amrsamy203</text>
-  <text x="28" y="110" fill="#9CA3AF" font-family="Segoe UI, Arial" font-size="15">Backend · Java/Spring · Measurable Systems portfolio</text>
-
+  <text x="28" y="42" fill="#2DD4BF" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="2">GITHUB HIGHLIGHTS</text>
+  <text x="28" y="78" fill="#F9FAFB" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">amrsamy203</text>
+  <text x="28" y="110" fill="#9CA3AF" font-family="Segoe UI, Arial, sans-serif" font-size="15">Backend | Java/Spring | Measurable Systems portfolio</text>
   <rect x="28" y="130" width="170" height="28" rx="8" fill="#134E4A"/>
   <text x="113" y="149" text-anchor="middle" fill="#5EEAD4" font-family="Consolas, monospace" font-size="12">Public portfolio</text>
-
   <rect x="480" y="36" width="160" height="108" rx="12" fill="#070B14" stroke="#2DD4BF" stroke-opacity="0.4"/>
-  <text x="560" y="78" text-anchor="middle" fill="#9CA3AF" font-family="Segoe UI, Arial" font-size="12">FOCUS</text>
-  <text x="560" y="108" text-anchor="middle" fill="#F9FAFB" font-family="Segoe UI, Arial" font-size="18" font-weight="700">Backend</text>
-
+  <text x="560" y="78" text-anchor="middle" fill="#9CA3AF" font-family="Segoe UI, Arial, sans-serif" font-size="12">FOCUS</text>
+  <text x="560" y="108" text-anchor="middle" fill="#F9FAFB" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Backend</text>
   <rect x="660" y="36" width="170" height="108" rx="12" fill="#070B14" stroke="#F59E0B" stroke-opacity="0.45"/>
-  <text x="745" y="78" text-anchor="middle" fill="#9CA3AF" font-family="Segoe UI, Arial" font-size="12">FLAGSHIP</text>
-  <text x="745" y="108" text-anchor="middle" fill="#F9FAFB" font-family="Segoe UI, Arial" font-size="16" font-weight="700">measurable-</text>
-  <text x="745" y="128" text-anchor="middle" fill="#F9FAFB" font-family="Segoe UI, Arial" font-size="16" font-weight="700">systems</text>
+  <text x="745" y="78" text-anchor="middle" fill="#9CA3AF" font-family="Segoe UI, Arial, sans-serif" font-size="12">FLAGSHIP</text>
+  <text x="745" y="108" text-anchor="middle" fill="#F9FAFB" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">measurable-</text>
+  <text x="745" y="128" text-anchor="middle" fill="#F9FAFB" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">systems</text>
 </svg>

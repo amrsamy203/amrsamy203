@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Amr Samy  Measurable Systems">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Amr Samy - Measurable Systems">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#070B14"/>
@@ -16,17 +17,12 @@
       <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
   <rect width="1200" height="360" fill="url(#bg)"/>
   <rect width="1200" height="360" fill="url(#glow)"/>
-
-  <!-- grid -->
   <g stroke="#1F2937" stroke-width="1" opacity="0.55">
     <path d="M0 72H1200M0 144H1200M0 216H1200M0 288H1200"/>
     <path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360"/>
   </g>
-
-  <!-- topology nodes -->
   <g fill="none" stroke="#2DD4BF" stroke-width="1.5" opacity="0.55">
     <path d="M780 90 L880 140 L980 110 L1080 170"/>
     <path d="M820 220 L920 180 L1020 240 L1120 200"/>
@@ -37,12 +33,9 @@
     <circle cx="820" cy="220" r="5"/><circle cx="920" cy="180" r="5"/>
     <circle cx="1020" cy="240" r="5"/><circle cx="1120" cy="200" r="5"/>
   </g>
-
   <text x="64" y="118" fill="#2DD4BF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="4">MEASURABLE SYSTEMS</text>
   <text x="64" y="178" fill="#F9FAFB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700">Amr Samy</text>
-  <text x="64" y="222" fill="#9CA3AF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24">Backend Engineer · Java / Spring · High-throughput systems</text>
-
+  <text x="64" y="222" fill="#9CA3AF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24">Backend Engineer | Java / Spring | High-throughput systems</text>
   <rect x="64" y="252" width="280" height="3" rx="2" fill="url(#line)"/>
-
-  <text x="64" y="300" fill="#E5E7EB" font-family="Consolas, Menlo, monospace" font-size="16">45min ’ 2min pipelines  ·  20M+ msg campaigns  ·  Cairo</text>
+  <text x="64" y="300" fill="#E5E7EB" font-family="Consolas, Menlo, monospace" font-size="16">45min to 2min pipelines  |  20M+ msg campaigns  |  Cairo</text>
 </svg>

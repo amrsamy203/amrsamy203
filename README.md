@@ -1,7 +1,7 @@
-# Amr Samy
+﻿# Amr Samy
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/banner.svg" alt="Amr Samy — Measurable Systems" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/banner.svg?v=2" alt="Amr Samy â€” Measurable Systems" width="100%"/>
 </p>
 
 <p align="center">
@@ -16,17 +16,17 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/divider.svg" width="100%" alt="divider"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/divider.svg?v=2" width="100%" alt="divider"/>
 </p>
 
 ## Proof, not buzzwords
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/metrics.svg" width="100%" alt="Career metrics"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/metrics.svg?v=2" width="100%" alt="Career metrics"/>
 </p>
 
 <p align="center">
-  <i>From real production work — AML pipeline optimization & telecom-scale campaigns (anonymized outcomes).</i>
+  <i>From real production work â€” AML pipeline optimization & telecom-scale campaigns (anonymized outcomes).</i>
 </p>
 
 <table>
@@ -36,10 +36,10 @@
 ### About
 I'm a **backend software engineer (~5 years)** who designs systems where **volume, routing, and failure** matter.
 
-I work across **Java / Spring Boot**, queues (**RabbitMQ**), multi-cloud data services (**AWS · Azure · GCP**), and integrations — from fintech AML to telecom VAS and AI product features.
+I work across **Java / Spring Boot**, queues (**RabbitMQ**), multi-cloud data services (**AWS Â· Azure Â· GCP**), and integrations â€” from fintech AML to telecom VAS and AI product features.
 
-**Education:** B.Sc. Computer Science — Cairo University  
-**Also:** ECPC finals ×3 · Co-coach ×2 · ICPC instructor
+**Education:** B.Sc. Computer Science â€” Cairo University  
+**Also:** ECPC finals Ã—3 Â· Co-coach Ã—2 Â· ICPC instructor
 
 </td>
 <td width="45%" valign="top">
@@ -58,12 +58,12 @@ I work across **Java / Spring Boot**, queues (**RabbitMQ**), multi-cloud data se
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/now.svg" width="100%" alt="Now building"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/now.svg?v=2" width="100%" alt="Now building"/>
 </p>
 
 ---
 
-## Portfolio — [Measurable Systems](https://github.com/amrsamy203/measurable-systems)
+## Portfolio â€” [Measurable Systems](https://github.com/amrsamy203/measurable-systems)
 
 Public demos with **Throughput Console**, architecture notes, and failure injection.
 
@@ -75,7 +75,7 @@ Public demos with **Throughput Console**, architecture notes, and failure inject
 <img src="https://img.shields.io/badge/from_resume-Data_Gear_queues-2DD4BF?style=flat-square&labelColor=0B1220" alt="Data Gear"/>
 
 Fair case routing under load  
-ingest → rules → assign → SLA
+ingest â†’ rules â†’ assign â†’ SLA
 
 `Spring` `Postgres` `RabbitMQ`
 
@@ -86,7 +86,7 @@ ingest → rules → assign → SLA
 <img src="https://img.shields.io/badge/from_resume-20M+_SMS-F59E0B?style=flat-square&labelColor=0B1220" alt="20M SMS"/>
 
 Multi-provider dispatch  
-rate limits · outbox · DLQ
+rate limits Â· outbox Â· DLQ
 
 `Spring` `Outbox` `API keys`
 
@@ -97,7 +97,7 @@ rate limits · outbox · DLQ
 <img src="https://img.shields.io/badge/from_resume-bub_AI_graph-A78BFA?style=flat-square&labelColor=0B1220" alt="bub AI"/>
 
 Graph insights + AI challenges  
-uploads · mock/OpenAI
+uploads Â· mock/OpenAI
 
 `Spring` `Graph` `OpenAI`
 
@@ -114,7 +114,7 @@ uploads · mock/OpenAI
 ```bash
 git clone https://github.com/amrsamy203/measurable-systems.git
 cd measurable-systems && docker compose up --build -d
-# :3000 site · :8081 CaseFlow · :8082 DispatchGrid · :8083 RelateAI
+# :3000 site Â· :8081 CaseFlow Â· :8082 DispatchGrid Â· :8083 RelateAI
 ```
 
 ---
@@ -122,11 +122,11 @@ cd measurable-systems && docker compose up --build -d
 ## Career path
 
 ```text
- ● 2025  Cyshield ........ Java/C/C++/Rust microservices · AWS/Azure/GCP
- ● 2024  bub AI .......... OpenAI challenges · graph DB · Azure Blob
- ● 2023  Data Gear ....... AML · 45min→2min · RabbitMQ round-robin
- ● 2020  Smart Link ...... Telecom VAS · 20M+ SMS · .NET integrations
- ● 2015  Cairo Univ ...... B.Sc. Computer Science
+ â— 2025  Cyshield ........ Java/C/C++/Rust microservices Â· AWS/Azure/GCP
+ â— 2024  bub AI .......... OpenAI challenges Â· graph DB Â· Azure Blob
+ â— 2023  Data Gear ....... AML Â· 45minâ†’2min Â· RabbitMQ round-robin
+ â— 2020  Smart Link ...... Telecom VAS Â· 20M+ SMS Â· .NET integrations
+ â— 2015  Cairo Univ ...... B.Sc. Computer Science
 ```
 
 <details>
@@ -134,10 +134,10 @@ cd measurable-systems && docker compose up --build -d
 
 <br/>
 
-**Cyshield** — distributed backends, multi-cloud data/messaging, WebRTC & confidential computing research.  
-**Data Gear** — AML (Java/Spring), AGP optimization, concurrency, queue routing (Oracle, RabbitMQ, Docker, Jenkins).  
-**bub AI** — OpenAI daily challenges, graph analysis, Azure Blob (Spring, MongoDB).  
-**Smart Link** — telecom VAS, 20M+ SMS campaigns, payments (.NET, SOAP/REST, workers).
+**Cyshield** â€” distributed backends, multi-cloud data/messaging, WebRTC & confidential computing research.  
+**Data Gear** â€” AML (Java/Spring), AGP optimization, concurrency, queue routing (Oracle, RabbitMQ, Docker, Jenkins).  
+**bub AI** â€” OpenAI daily challenges, graph analysis, Azure Blob (Spring, MongoDB).  
+**Smart Link** â€” telecom VAS, 20M+ SMS campaigns, payments (.NET, SOAP/REST, workers).
 
 </details>
 
@@ -154,16 +154,16 @@ cd measurable-systems && docker compose up --build -d
 ## Activity & highlights
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/github-card.svg" width="100%" alt="GitHub highlights"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/github-card.svg?v=2" width="100%" alt="GitHub highlights"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/langs.svg" width="100%" alt="Languages and tools"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/langs.svg?v=2" width="100%" alt="Languages and tools"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/amrsamy203/measurable-systems">
-    <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/pin.svg" alt="measurable-systems pinned"/>
+    <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/pin.svg?v=2" alt="measurable-systems pinned"/>
   </a>
 </p>
 
@@ -175,7 +175,7 @@ cd measurable-systems && docker compose up --build -d
 
 ## Let's work
 
-Open to **Upwork · Freelancer · Khamsat** for Spring Boot APIs, workers, integrations, and performance work.
+Open to **Upwork Â· Freelancer Â· Khamsat** for Spring Boot APIs, workers, integrations, and performance work.
 
 <p align="center">
   <a href="mailto:samyamr270@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="mail"/></a>
@@ -195,7 +195,7 @@ Open to **Upwork · Freelancer · Khamsat** for Spring Boot APIs, workers, integ
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/divider.svg" width="100%" alt="divider"/>
+  <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/divider.svg?v=2" width="100%" alt="divider"/>
 </p>
 
 <p align="center">
@@ -203,5 +203,5 @@ Open to **Upwork · Freelancer · Khamsat** for Spring Boot APIs, workers, integ
 </p>
 
 <p align="center">
-  <sub>Brand: <b>Measurable Systems</b> — industrial precision · real metrics · production-minded backends</sub>
+  <sub>Brand: <b>Measurable Systems</b> â€” industrial precision Â· real metrics Â· production-minded backends</sub>
 </p>

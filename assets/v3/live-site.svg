@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="148" viewBox="0 0 900 148">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0F1A2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="148" rx="16" fill="url(#bg)" stroke="#1F2937"/>
+  <rect x="0" y="0" width="900" height="3" fill="url(#accent)"/>
+
+  <!-- live pulse -->
+  <circle cx="48" cy="74" r="10" fill="#2DD4BF" fill-opacity="0.18"/>
+  <circle cx="48" cy="74" r="5" fill="#2DD4BF"/>
+
+  <text x="72" y="48" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="3" font-weight="600">LIVE PORTFOLIO</text>
+  <text x="72" y="82" fill="#F9FAFB" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Measurable Systems</text>
+  <text x="72" y="110" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Case studies, Throughput Consoles, and runnable demos</text>
+
+  <!-- CTA chip -->
+  <rect x="620" y="48" width="240" height="52" rx="8" fill="#2DD4BF"/>
+  <text x="740" y="80" text-anchor="middle" fill="#0B1220" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Open live site  -&gt;</text>
+</svg>

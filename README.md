@@ -9,10 +9,23 @@
 </p>
 
 <p align="center">
+  <a href="https://edgy-bagged-overheat.ngrok-free.dev/">
+    <img src="https://raw.githubusercontent.com/amrsamy203/amrsamy203/main/assets/v3/live-site.svg" alt="Open live Measurable Systems portfolio" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://edgy-bagged-overheat.ngrok-free.dev/"><img src="https://img.shields.io/badge/Live_Site-Measurable_Systems-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0B1220&labelColor=0B1220" alt="Live site"/></a>
+  <a href="https://www.linkedin.com/in/amr-samy-2851ab13b"><img src="https://img.shields.io/badge/LinkedIn-amr--samy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:samyamr270@gmail.com"><img src="https://img.shields.io/badge/Email-samyamr270%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/amr-samy-2851ab13b"><img src="https://img.shields.io/badge/LinkedIn-amr--samy--2851ab13b-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/amrsamy203/measurable-systems"><img src="https://img.shields.io/badge/Portfolio-Measurable_Systems-111827?style=for-the-badge&logo=github&logoColor=F59E0B" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Based_in-Cairo,_Egypt-0B1220?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF" alt="Location"/>
+</p>
+
+<p align="center">
+  <a href="https://edgy-bagged-overheat.ngrok-free.dev/caseflow/"><img src="https://img.shields.io/badge/Live-CaseFlow-111827?style=flat-square&logo=springboot&logoColor=2DD4BF&labelColor=0B1220" alt="CaseFlow live"/></a>
+  <a href="https://edgy-bagged-overheat.ngrok-free.dev/dispatchgrid/"><img src="https://img.shields.io/badge/Live-DispatchGrid-111827?style=flat-square&logo=rabbitmq&logoColor=F59E0B&labelColor=0B1220" alt="DispatchGrid live"/></a>
+  <a href="https://edgy-bagged-overheat.ngrok-free.dev/relateai/"><img src="https://img.shields.io/badge/Live-RelateAI-111827?style=flat-square&logo=openai&logoColor=A78BFA&labelColor=0B1220" alt="RelateAI live"/></a>
+  <a href="https://github.com/amrsamy203/measurable-systems"><img src="https://img.shields.io/badge/Code-monorepo-111827?style=flat-square&logo=github&logoColor=E5E7EB&labelColor=0B1220" alt="Monorepo"/></a>
 </p>
 
 <p align="center">
@@ -63,58 +76,61 @@ I work across **Java / Spring Boot**, queues (**RabbitMQ**), multi-cloud data se
 
 ---
 
-## Portfolio - [Measurable Systems](https://github.com/amrsamy203/measurable-systems)
+## Live portfolio - [Measurable Systems](https://edgy-bagged-overheat.ngrok-free.dev/)
 
-Public demos with **Throughput Console**, architecture notes, and failure injection.
+Click any card to open the **live demo**. Source lives in the [monorepo](https://github.com/amrsamy203/measurable-systems).
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-### [CaseFlow](https://github.com/amrsamy203/measurable-systems/tree/main/projects/caseflow)
-<img src="https://img.shields.io/badge/from_resume-Data_Gear_queues-2DD4BF?style=flat-square&labelColor=0B1220" alt="Data Gear"/>
+### [CaseFlow](https://edgy-bagged-overheat.ngrok-free.dev/caseflow/)
+<img src="https://img.shields.io/badge/LIVE-Throughput_Console-2DD4BF?style=flat-square&labelColor=0B1220" alt="live"/>
 
 Fair case routing under load  
 ingest -> rules -> assign -> SLA
 
-`Spring` `Postgres` `RabbitMQ`
+`admin@caseflow.demo` / `password`
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### [DispatchGrid](https://github.com/amrsamy203/measurable-systems/tree/main/projects/dispatchgrid)
-<img src="https://img.shields.io/badge/from_resume-20M+_SMS-F59E0B?style=flat-square&labelColor=0B1220" alt="20M SMS"/>
+### [DispatchGrid](https://edgy-bagged-overheat.ngrok-free.dev/dispatchgrid/)
+<img src="https://img.shields.io/badge/LIVE-20M+_SMS_patterns-F59E0B?style=flat-square&labelColor=0B1220" alt="live"/>
 
 Multi-provider dispatch  
 rate limits - outbox - DLQ
 
-`Spring` `Outbox` `API keys`
+`admin@dispatchgrid.demo` / `password`
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### [RelateAI](https://github.com/amrsamy203/measurable-systems/tree/main/projects/relateai)
-<img src="https://img.shields.io/badge/from_resume-bub_AI_graph-A78BFA?style=flat-square&labelColor=0B1220" alt="bub AI"/>
+### [RelateAI](https://edgy-bagged-overheat.ngrok-free.dev/relateai/)
+<img src="https://img.shields.io/badge/LIVE-Graph_+_AI-A78BFA?style=flat-square&labelColor=0B1220" alt="live"/>
 
 Graph insights + AI challenges  
 uploads - mock/OpenAI
 
-`Spring` `Graph` `OpenAI`
+`user1@relateai.demo` / `password`
 
 </td>
 </tr>
 </table>
 
 <p align="center">
+  <a href="https://edgy-bagged-overheat.ngrok-free.dev/">
+    <img src="https://img.shields.io/badge/Open_live_portfolio-edgy--bagged--overheat.ngrok--free.dev-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=0B1220&labelColor=0B1220" alt="Open live portfolio"/>
+  </a>
   <a href="https://github.com/amrsamy203/measurable-systems">
-    <img src="https://img.shields.io/badge/Open_monorepo-docker_compose_up-2DD4BF?style=for-the-badge&logo=docker&logoColor=0B1220&labelColor=0B1220" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Source-docker_compose_up-111827?style=for-the-badge&logo=docker&logoColor=2DD4BF&labelColor=0B1220" alt="Source monorepo"/>
   </a>
 </p>
 
 ```bash
 git clone https://github.com/amrsamy203/measurable-systems.git
 cd measurable-systems && docker compose up --build -d
-# :3000 site - :8081 CaseFlow - :8082 DispatchGrid - :8083 RelateAI
+# gateway :3099  (portfolio + /caseflow /dispatchgrid /relateai)
 ```
 
 ---
@@ -178,6 +194,7 @@ cd measurable-systems && docker compose up --build -d
 Open to **Upwork - Freelancer - Khamsat** for Spring Boot APIs, workers, integrations, and performance work.
 
 <p align="center">
+  <a href="https://edgy-bagged-overheat.ngrok-free.dev/"><img src="https://img.shields.io/badge/See-Live_Portfolio-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=0B1220&labelColor=0B1220" alt="portfolio"/></a>
   <a href="mailto:samyamr270@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="mail"/></a>
   <a href="https://www.linkedin.com/in/amr-samy-2851ab13b"><img src="https://img.shields.io/badge/Contact-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="li"/></a>
   <a href="tel:+201016530911"><img src="https://img.shields.io/badge/Phone-%2B20_101_653_0911-111827?style=for-the-badge&logo=whatsapp&logoColor=2DD4BF&labelColor=0B1220" alt="phone"/></a>

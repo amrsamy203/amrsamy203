@@ -21,9 +21,10 @@
 
   <text x="72" y="48" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="3" font-weight="600">LIVE PORTFOLIO</text>
   <text x="72" y="82" fill="#F9FAFB" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Measurable Systems</text>
-  <text x="72" y="110" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Case studies, Throughput Consoles, and runnable demos</text>
+  <text x="72" y="110" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Experience timeline, case studies and 6 live demos</text>
+  <text x="72" y="130" fill="#5EEAD4" font-family="Consolas, monospace" font-size="13">amrsamy203.github.io</text>
 
   <!-- CTA chip -->
   <rect x="620" y="48" width="240" height="52" rx="8" fill="#2DD4BF"/>
-  <text x="740" y="80" text-anchor="middle" fill="#0B1220" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Open live site  -&gt;</text>
+  <text x="740" y="80" text-anchor="middle" fill="#0B1220" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Open portfolio  -&gt;</text>
 </svg>
